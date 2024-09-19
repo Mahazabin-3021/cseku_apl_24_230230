@@ -4,6 +4,7 @@ int main(void)
     int a[100];
     int i=0,temp,j=0;
     int n;
+    printf("How many numbers : ");
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
